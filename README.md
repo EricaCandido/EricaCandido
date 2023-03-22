@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Erica and I'm a beginner in coding. I've discovered this new world since a few time and can't wait to learn as much as possible 🤩
+It's just for this that I'm attending a coding bootcamp that is helping me to grow a lot in these months 🙏
+
 <!--
 **EricaCandido/EricaCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
