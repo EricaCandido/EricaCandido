@@ -1,3 +1,5 @@
+<img width="30%" src="https://i.pinimg.com/564x/52/41/b1/5241b11ba4bd4d7d1f53b6fdfd5389c8.jpg" />
+
 ### Hi there 😜
 
 I'm Erica and I'm a beginner in coding. I've discovered this new world since a few time and can't wait to learn as much as possible 🤩
