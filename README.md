@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hi there 😜
 
 I'm Erica and I'm a beginner in coding. I've discovered this new world since a few time and can't wait to learn as much as possible 🤩
 It's just for this that I'm attending a coding bootcamp that is helping me to grow a lot in these months 🙏
+
+### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricaCandido"/>
+
+
+### Stats 📈
+<img src="https://github-readme-stats.vercel.app/api?username=EricaCandido&show_icons=true"/>  
+
+### Fields of application
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
 <!--
 **EricaCandido/EricaCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
