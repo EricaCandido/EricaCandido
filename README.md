@@ -1,4 +1,4 @@
-<img width="30%" src="https://i.pinimg.com/564x/52/41/b1/5241b11ba4bd4d7d1f53b6fdfd5389c8.jpg" />
+<img text-align="center" width="30%" src="https://i.pinimg.com/564x/52/41/b1/5241b11ba4bd4d7d1f53b6fdfd5389c8.jpg" />
 
 ### Hi there 😜
 
