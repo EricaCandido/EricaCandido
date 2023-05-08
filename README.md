@@ -2,8 +2,8 @@
 
 ### Hi there 😜
 
-I'm Erica and I'm a beginner in coding. I've discovered this new world since a few time and can't wait to learn as much as possible 🤩
-It's just for this that I'm attending a coding bootcamp that is helping me to grow a lot in these months 🙏
+I'm Erica and I've srarted to code for joke and then discovered a real passion. I studied it at university and then I won a grant for a coding bootcamp that has helped me to grow a lot 🙏
+So now I'm a front-end developer ✨
 
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricaCandido"/>
