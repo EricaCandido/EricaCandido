@@ -2,7 +2,7 @@
 
 ### Hi there 😜
 
-I'm Erica and I've srarted to code for joke and then discovered a real passion. I studied it at university and then I won a grant for a coding bootcamp that has helped me to grow a lot 🙏
+I'm Erica and I've started to code for joke and then discovered a real passion. I studied it at university and then I won a grant for a coding bootcamp that has helped me to grow a lot 🙏
 So now I'm a front-end developer ✨
 
 ### Languages
