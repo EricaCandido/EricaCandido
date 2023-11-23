@@ -4,6 +4,8 @@
 
 I'm Erica and I've started to code for joke and then discovered a real passion. I studied it at university and then I won a grant for a coding bootcamp that has helped me to grow a lot 🙏
 So now I'm a front-end developer ✨
+Currently, I'm also an HTML, CSS, SASS and JS teacher, trying to transmit my passion to other new devs 💖
+Meanwhile my education trip never stops, in fact I'm studying to become a full-stack dev!
 
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricaCandido"/>
